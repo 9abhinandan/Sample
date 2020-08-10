@@ -8,5 +8,7 @@ public class Stashclass
 	
 	System.out.println("stash change");
 	
+	System.out.println("change");
+	
    }
 }
