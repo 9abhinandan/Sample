@@ -10,5 +10,7 @@ public class Stashclass
 	
 	System.out.println("change");
 	
+	System.out.println("change");
+	
    }
 }
