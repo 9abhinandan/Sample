@@ -10,6 +10,7 @@ System.out.println("Patil");
 
 System.out.println("Satave");
 
+System.out.println("Satave");
 
 
 }
